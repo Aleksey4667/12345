@@ -6,7 +6,7 @@ int x,y,c;
 scanf("%f", %y)
 
 y=5x+20;
-
+c=y*5
 printf("otvet %f\n", c);
 
 retern (0);
